@@ -1,3 +1,6 @@
+## Acknowledgement: Browsed through stackoverflow and couple of websites to understand 
+## usage of <<- operator through similar kind of functions.
+
 ## This function enables caching of its returned value, so that for any more request
 ## for the value, it will be fetched from cache, provided the passed matrix has not changed
 
